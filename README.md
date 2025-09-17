@@ -12,4 +12,4 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about what's new in the field of ai and programming
 - 📫 How to reach me: yuvankkumawat10@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: learning as much as coding languages as i can
+- ⚡ Fun fact: learning as much as programming languages as i can
