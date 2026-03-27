@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently honing my skills<br>🌱 I’m currently mastering full stack development by making as many projects as I can<br>👯 I’m looking to collaborate on any project that helps me get internship<br>🤔 I’m looking for help with project ideas<br>💬 Ask me about what's new in the field of ai and programming<br>📫 How to reach me: yuvankkumawat10@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: My favorite anime is Blue Lock
+🔭 I’m currently making my own llm<br>🌱 I’m currently mastering full stack development by making as many projects as I can<br>👯 I’m looking to collaborate on any project that helps me get internship<br>🤔 I’m looking for help with project ideas<br>💬 Ask me about what's new in the field of ai and programming<br>📫 How to reach me: yuvankkumawat10@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: My favorite anime is Blue Lock
 
 
 ## 🌐 Socials:
